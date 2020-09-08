@@ -6,6 +6,6 @@ Project was part of semester 1 assessment within Programming Module. Full descri
 All source files, libs and makefiles can be accessed and are published in this repositorium. 
 
 List of resources and tools used in project:
-- AVR GNU Toolchain - compiling, linking, modifying LCD liblary
+- AVR GNU Toolchain - compiling, linking, modifying LCD library
 - I1 Matto Board (designed by Steve Gunn University of Southampton) based on Atmega644P microprocessor with LCD TFT screen.
 - Prototype board for necessary connections for Boost Converter Cirucit and features like buttons, controllers, sensors.
